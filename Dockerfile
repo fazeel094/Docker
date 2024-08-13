@@ -1,9 +1,4 @@
-On branch master
-
-Initial commit
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	Dockerfile
-
-nothing added to commit but untracked files present (use "git add" to track)
+[main (root-commit) ca340a9] Docker info
+ 2 files changed, 19 insertions(+)
+ create mode 100644 Dockerfile
+ create mode 100644 README.md
